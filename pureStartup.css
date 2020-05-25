@@ -1,0 +1,31 @@
+.carousel-inner {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.carousel-inner>.active { 
+    left: auto;
+}
+
+.carousel-inner>.item>a>img, .carousel-inner>.item>img {
+    max-height: 80vh;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.navbar-inverse {
+    background-color: #123752; 
+    border-color: #090909
+}
+
+.clear-section {
+    background-color: #708EA4; 
+}
+
+.middle-light-section {
+    background-color: #486D88;
+}
+
+.col-md-push-4 {
+    position: relative;
+}
